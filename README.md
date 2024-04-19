@@ -33,8 +33,11 @@ The dataset for Liver Tumor Classification comprises images of liver tumors cate
   
 ## Technical terms on  images
 Cells: The image shows a variety of cells in different shapes and sizes, with their nuclei and cytoplasm clearly visible due to the staining.
+
 Tissue Structure: The arrangement of the cells suggests the presence of different types of tissues. Some areas are densely packed, while others have cells that are more spread out.
+
 Nuclei: The darker spots within the cells are the nuclei, where the genetic material of the cells is stored.
+
 Staining: The pink coloration is dominant in the image, which is typical of certain histological staining techniques used to increase contrast and make cellular structures more visible.
 
 
